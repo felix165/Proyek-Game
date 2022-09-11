@@ -6,6 +6,7 @@ Informatika 2022 Ganjil
 
 Unversitas Kristen Petra
 
+
 Anggota Kelompok:
 
 Ivan Chandra (C14200119)
