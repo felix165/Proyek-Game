@@ -1,18 +1,11 @@
 # Proyek-Game
-
-Proyek Pemrogramman Game & Desain Game
-
-Informatika 2022 Ganjil
-
+Proyek Pemrogramman Game & Desain Game<br>
+Informatika 2022 Ganjil<br>
 Unversitas Kristen Petra
-
+<br><br>
 
 Anggota Kelompok:
-
-Ivan Chandra (C14200119)
-
-Felix (C14200165)
-
-Gabriella Evangeline (C14200190)
-
-Michael Ryanto (C14200205)
+<br>Ivan Chandra (C14200119)
+<br>Felix (C14200165)
+<br>Gabriella Evangeline (C14200190)
+<br>Michael Ryanto (C14200205)
