@@ -9,3 +9,9 @@ Anggota Kelompok:
 <br>Felix (C14200165)
 <br>Gabriella Evangeline (C14200190)
 <br>Michael Ryanto (C14200205)
+<br><br>
+Teaser : <br>
+https://drive.google.com/file/d/1QjhRezE4mxXpR0ABHzkuC9j9RZPLqn76/view?usp=drivesdk
+
+
+
